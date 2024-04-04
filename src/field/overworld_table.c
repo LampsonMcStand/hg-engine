@@ -1662,6 +1662,7 @@ struct OVERWORLD_TAG gOWTagToFileNum[] = // skip down a bit to see the parts tha
     { .tag = 1791, .gfx = 1570, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_TERAPAGOS
     { .tag = 1792, .gfx = 1571, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_PECHARUNT
 
+
     { 0xFFFF, 0, 0},
 };
 

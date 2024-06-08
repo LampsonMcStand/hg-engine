@@ -1082,4 +1082,10 @@ const u16 UNUSED sSpeciesToOWGfx[] =
     [SPECIES_IRON_CROWN         ] = 1306,
     [SPECIES_TERAPAGOS          ] = 1307,
     [SPECIES_PECHARUNT          ] = 1308,
+    [SPECIES_STARQUILL          ] = 1309,
+    [SPECIES_STARBOLT           ] = 1310,
+    [SPECIES_STARDREAMER        ] = 1311,
+    [SPECIES_RELVIT             ] = 1312,
+    [SPECIES_RELVETEEN          ] = 1313,
+    [SPECIES_REVELOURA          ] = 1314,	
 };

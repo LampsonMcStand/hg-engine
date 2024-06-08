@@ -1661,6 +1661,12 @@ struct OVERWORLD_TAG gOWTagToFileNum[] = // skip down a bit to see the parts tha
     { .tag = 1790, .gfx = 1569, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_IRON_CROWN
     { .tag = 1791, .gfx = 1570, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_TERAPAGOS
     { .tag = 1792, .gfx = 1571, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_PECHARUNT
+    { .tag = 1793, .gfx = 1590, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_STARQUILL
+    { .tag = 1794, .gfx = 1591, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_STARBOLT
+    { .tag = 1795, .gfx = 1592, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_STARDREAMER
+    { .tag = 1796, .gfx = 1593, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_RELVIT 
+    { .tag = 1797, .gfx = 1594, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_RELVETEEN
+    { .tag = 1798, .gfx = 1595, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_REVELOURA	
 
 
     { 0xFFFF, 0, 0},

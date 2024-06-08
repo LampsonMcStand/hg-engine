@@ -22608,6 +22608,132 @@ mondata SPECIES_PECHARUNT, "Pecharunt"
     mondexweight SPECIES_PECHARUNT, "0.7 lbs."
 
 
+mondata SPECIES_STARQUILL, "Starquill"
+    basestats 45, 30, 35, 50, 65, 40
+    types TYPE_ELECTRIC, TYPE_FAIRY
+    catchrate 45
+    baseexp 0 // defined in baseexp.s
+    evyields 0, 0, 0, 0, 1, 0
+    items ITEM_NONE, ITEM_NONE
+    genderratio 31
+    eggcycles 20
+    basefriendship 70
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_FIELD, EGG_GROUP_FAIRY
+    abilities ABILITY_NATURAL_CURE, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_BLUE, 0
+    mondexentry SPECIES_STARQUILL, "This is a newly discovered\nPokémon."
+    mondexclassification SPECIES_STARQUILL, "Twinkling Pokémon"
+    mondexheight SPECIES_STARQUILL, "0'08""
+    mondexweight SPECIES_STARQUILL, "4.6 lbs."
+
+
+mondata SPECIES_STARBOLT, "Starbolt"
+    basestats 60, 40, 50, 70, 80, 55
+    types TYPE_ELECTRIC, TYPE_FAIRY
+    catchrate 45
+    baseexp 0 // defined in baseexp.s
+    evyields 0, 0, 0, 0, 2, 0
+    items ITEM_NONE, ITEM_NONE
+    genderratio 31
+    eggcycles 20
+    basefriendship 70
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_FIELD, EGG_GROUP_FAIRY
+    abilities ABILITY_NATURAL_CURE, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_BLUE, 0
+    mondexentry SPECIES_STARBOLT, "This is a newly discovered\nPokémon."
+    mondexclassification SPECIES_STARBOLT, "Sparkling Pokémon"
+    mondexheight SPECIES_STARBOLT, "1’04”"
+    mondexweight SPECIES_STARBOLT, "11.5 lbs."
+	
+
+mondata SPECIES_STARDREAMER, "Stardreamer"
+    basestats 75, 55, 65, 90, 110, 80
+    types TYPE_ELECTRIC, TYPE_FAIRY
+    catchrate 45
+    baseexp 0 // defined in baseexp.s
+    evyields 0, 0, 0, 0, 3, 0
+    items ITEM_NONE, ITEM_NONE
+    genderratio 31
+    eggcycles 20
+    basefriendship 70
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_FIELD, EGG_GROUP_FAIRY
+    abilities ABILITY_NATURAL_CURE, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_BLUE, 0
+    mondexentry SPECIES_STARDREAMER, "This is a newly discovered\nPokémon."
+    mondexclassification SPECIES_STARDREAMER, "Celestial Pokémon"
+    mondexheight SPECIES_STARDREAMER, "4’04”"
+    mondexweight SPECIES_STARDREAMER, "28.5 lbs."
+	
+	
+	mondata SPECIES_RELVIT, "Relvit"
+    basestats 50, 40, 45, 60, 70, 50
+    types TYPE_WATER, TYPE_FAIRY
+    catchrate 3
+    baseexp 0 // defined in baseexp.s
+    evyields 0, 0, 0, 0, 0, 1
+    items ITEM_NONE, ITEM_NONE
+    genderratio 31
+    eggcycles 20
+    basefriendship 70
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_WATER_1, EGG_GROUP_FAIRY
+    abilities ABILITY_HYDRATION, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_PURPLE, 0
+    mondexentry SPECIES_RELVIT, "This is a newly discovered\nPokémon."
+    mondexclassification SPECIES_RELVIT, "Bubble Bunny Pokémon"
+    mondexheight SPECIES_RELVIT, "0’09”"
+    mondexweight SPECIES_RELVIT, "5.3 lbs."
+	
+	
+	mondata SPECIES_RELVETEEN, "Relveteen"
+    basestats 65, 55, 60, 75, 85, 65
+    types TYPE_WATER, TYPE_FAIRY
+    catchrate 3
+    baseexp 0 // defined in baseexp.s
+    evyields 0, 0, 0, 0, 0, 1
+    items ITEM_NONE, ITEM_NONE
+    genderratio 31
+    eggcycles 20
+    basefriendship 70
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_WATER_1, EGG_GROUP_FAIRY
+    abilities ABILITY_HYDRATION, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_PURPLE, 0
+    mondexentry SPECIES_RELVETEEN, "This is a newly discovered\nPokémon."
+    mondexclassification SPECIES_RELVETEEN, "Ripple Rabbit Pokémon"
+    mondexheight SPECIES_RELVETEEN, "2’03”"
+    mondexweight SPECIES_RELVETEEN, "14.3.? lbs."
+	
+	
+	mondata SPECIES_REVELOURA, "Reveloura"
+    basestats 80, 70, 75, 90, 100, 80
+    types TYPE_WATER, TYPE_FAIRY
+    catchrate 3
+    baseexp 0 // defined in baseexp.s
+    evyields 0, 0, 0, 0, 0, 1
+    items ITEM_NONE, ITEM_NONE
+    genderratio 31
+    eggcycles 20
+    basefriendship 70
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_WATER_1, EGG_GROUP_FAIRY
+    abilities ABILITY_HYDRATION, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_PURPLE, 0
+    mondexentry SPECIES_REVELOURA, "This is a newly discovered\nPokémon."
+    mondexclassification SPECIES_REVELOURA, "Mystic Hare Pokémon"
+    mondexheight SPECIES_REVELOURA, "6’02”"
+    mondexweight SPECIES_REVELOURA, "32.4 lbs."
+	
+	
 mondata SPECIES_MEGA_VENUSAUR, "-----"
     basestats 80,100,123,80,122,120
     types TYPE_GRASS, TYPE_POISON
@@ -27418,3 +27544,21 @@ mondata SPECIES_URSALUNA_BLOODMOON, "-----"
     abilities ABILITY_MINDS_EYE, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
+
+
+mondata SPECIES_STARDREAMER_MEGA, "-----"
+    basestats 75, 55, 85, 120, 160, 100
+    types TYPE_ELECTRIC, TYPE_FAIRY
+    catchrate 45
+    baseexp 0 // defined in baseexp.s
+    evyields 0, 0, 0, 0, 3, 0
+    items ITEM_NONE, ITEM_NONE
+    genderratio 31
+    eggcycles 20
+    basefriendship 70
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_FIELD, EGG_GROUP_FAIRY
+    abilities ABILITY_NATURAL_CURE, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_BLUE, 0
+	

@@ -1089,6 +1089,12 @@ heightentry SPECIES_IRON_BOULDER, 0, 0, 0, 0
 heightentry SPECIES_IRON_CROWN, 0, 0, 0, 0
 heightentry SPECIES_TERAPAGOS, 0, 0, 0, 0
 heightentry SPECIES_PECHARUNT, 0, 0, 0, 0
+heightentry SPECIES_STARQUILL, 0, 0, 0, 0
+heightentry SPECIES_STARBOLT, 0, 0, 0, 0
+heightentry SPECIES_STARDREAMER, 0, 0, 0, 0
+heightentry SPECIES_RELVIT, 0, 0, 0, 0
+heightentry SPECIES_RELVETEEN, 0, 0, 0, 0
+heightentry SPECIES_REVELOURA, 0, 0, 0, 0
 
 heightentry SPECIES_MEGA_VENUSAUR, 3, 3, 0, 0
 heightentry SPECIES_MEGA_CHARIZARD_X, 3, 3, 0, 0
@@ -1378,3 +1384,4 @@ heightentry SPECIES_OGERPON_HEARTHFLAME_MASK, 0, 0, 0, 0
 heightentry SPECIES_OGERPON_CORNERSTONE_MASK, 0, 0, 0, 0
 heightentry SPECIES_TERAPAGOS_STELLAR, 0, 0, 0, 0
 heightentry SPECIES_URSALUNA_BLOODMOON, 3, 3, 0, 0
+heightentry SPECIES_STARDREAMER_MEGA, 0, 0, 0, 0

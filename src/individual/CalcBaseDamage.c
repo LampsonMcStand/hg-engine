@@ -129,7 +129,7 @@ static const u16 SharpnessMovesTable[] = {
 
 
 
-int CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
+int UNUSED CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
                    u32 field_cond, u16 pow, u8 type UNUSED, u8 attacker, u8 defender, u8 critical)
 {
     u32 i;
@@ -213,7 +213,7 @@ int CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
         sp->waza_status_flag &= ~MOVE_STATUS_FLAG_NOT_VERY_EFFECTIVE;
         return 0;
     }
-        
+
 
     if ((MoldBreakerAbilityCheck(sp, attacker, defender, ABILITY_ICE_FACE) == TRUE)
     && (sp->battlemon[defender].species == SPECIES_EISCUE)
@@ -225,7 +225,7 @@ int CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
         sp->waza_status_flag &= ~MOVE_STATUS_FLAG_NOT_VERY_EFFECTIVE;
         return 0;
     }
-        
+
 
     if (pow == 0)
         movepower = sp->moveTbl[moveno].power;
@@ -347,9 +347,23 @@ int CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
     }
 
     // handle eviolite
-    //if ((DefendingMon.item_held_effect == HOLD_EFFECT_EVIOLITE)
-    //    defense *= 2;
-    //    sp_defense *= 2;
+    if (DefendingMon.item_held_effect == HOLD_EFFECT_EVIOLITE) {
+        u16 speciesWithForm;
+        speciesWithForm = PokeOtherFormMonsNoGet(sp->battlemon[defender].species, sp->battlemon[defender].form_no);
+
+        struct Evolution *evoTable;
+        evoTable = sys_AllocMemory(0, MAX_EVOS_PER_POKE * sizeof(struct Evolution));
+        ArchiveDataLoad(evoTable, ARC_EVOLUTIONS, speciesWithForm);
+
+        // If a Pokémon has any evolutions, there should be an entry at the top that isn't EVO_NONE.
+        // In that case, the Pokémon is capable of evolving, and so the effect of Eviolite should apply.
+        if (evoTable[0].method != EVO_NONE) {
+            defense = defense * 150 / 100;
+            sp_defense = sp_defense * 150 / 100;
+        }
+
+        sys_FreeMemoryEz(evoTable);
+    }
 
     // handle thick club
     if ((AttackingMon.item_held_effect == HOLD_EFFECT_CUBONE_ATK_UP)

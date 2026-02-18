@@ -936,10 +936,11 @@
 #define MOVE_PSYCHIC_NOISE 920
 #define MOVE_UPPER_HAND 921
 #define MOVE_MALIGNANT_CHAIN 922
+#define MOVE_NIHIL_LIGHT 923
 
 // there are a bunch more here but that is fine
 
-#define NUM_OF_CANONICAL_MOVES 923
+#define NUM_OF_CANONICAL_MOVES 924
 
 // define your new moves below like this
 // #define MOVE_CUSTOM_MOVE_1 (NUM_OF_CANONICAL_MOVES)

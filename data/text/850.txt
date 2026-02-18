@@ -727,3 +727,122 @@ A rock that fell to earth from space.\nIt’s warm to the touch. It changes the\
 A record of an expedition to the\nGreat Crater of Paldea, given\nto you by Professor Sada.\rThe book has the name “Sada” written\non it in clumsy handwriting.
 A record of an expedition to the\nGreat Crater of Paldea, given\nto you by Professor Turo.\rThe book has the name “Turo” written\non it in clumsy handwriting.
 A proof copy of the\nexploration notes covering\nthe Area Zero Underdepths.\rIt’s filled with long paragraphs\ndescribing what happened,\nalong with Briar’s thoughts.
+A rare variety of seed.\nA certain person can help you upgrade your\nPokémon's moves into Plus Moves if given one of these.
+One of a variety of mysterious Mega\nStones. A Clefable holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Victreebel holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Starmie holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Dragonite holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Meganium holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Feraligatr holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Skarmory holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Froslass holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. An Emboar holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. An Excadrill holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Scolipede holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Scrafty holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. An Eelektross holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Chandelure holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Chesnaught holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Delphox holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Greninja holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Pyroar holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A special Floette holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Malamar holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Barbaracle holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Dragalge holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Hawlucha holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. When in Complete Forme and holding this stone,\nZygarde will be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Drampa holding this stone\mwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Falinks holding this stone\mwill be able to Mega Evolve during battle.
+A key for room 202 at Hotel Z.
+A popular treat among certain residents\nof Lumiose City. This variety is baked to be incredibly\nfirm so that one can savor the crunch.
+A key card that can be used in Lysandre Labs. The locks were each programmed to take different keys for security purposes, but mostly it's just an inconvenience.
+A key card that can be used in Lysandre Labs. The locks were each programmed to take different keys for security purposes, but mostly it's just an inconvenience.
+A key card that can be used in Lysandre Labs. The locks were each programmed to take different keys for security purposes, but mostly it's just an inconvenience.
+An ordinary pebble\nentrusted to you by the Pokémon\nknown as Zygarde. It is completely unremarkable.
+A ring that an old woman asked you to retrieve.\nIt seems to hold some value to her.
+A plush doll that has been autographed\nby Canari. Just having one puts you in a good mood.
+Food waste made up of cooking ingredients.\nAlthough they were thrown away after\nthe best parts were used, some edible bits still remain.
+A small twig that is beloved by Fennekin.\nIt's said that chewing on one of these\ntwigs can be both soothing and cheering.
+Lida’s accessories and other items\nthat she uses when practicing dance.\nThey're kept in a small pouch that was handmade by Naveen.
+A mysterious shard that can be found\nafter smashing Mega Crystals using Pokémon moves.\nIt seems that some people collect these shards.
+A colorful screw. These screws have been left here\nand there around Lumiose City, and the staff at\nRacine Construction will trade you goods in exchange for them.
+A plush doll of Canari that holds a red charm.\nHaving one of these increases the Exp. Points your Pokémon get by a little.
+A plush doll of Canari that holds a red charm.\nHaving one of these increases the Exp. Points your Pokémon get.
+A plush doll of Canari that holds a red charm.\nHaving one of these increases the Exp. Points your Pokémon get by a lot.
+A plush doll of Canari that holds a gold charm.\nHaving one of these increases the prize money you receive from battles by a little.
+A plush doll of Canari that holds a gold charm.\nHaving one of these increases the prize money you receive from battles.
+A plush doll of Canari that holds a gold charm.\nHaving one of these increases the prize money you receive from battles by a lot.
+A plush doll of Canari that holds a pink charm.\nHaving one of these increases the number of Mega Shards you'll find after smashing Mega Crystals by a little.
+A plush doll of Canari that holds a pink charm.\nHaving one of these increases the number of Mega Shards you'll find after smashing Mega Crystals.
+A plush doll of Canari that holds a pink charm.\nHaving one of these increases the number of Mega Shards you'll find after smashing Mega Crystals by a lot.
+A plush doll of Canari that holds a green charm.\nHaving one of these makes you a little less likely to black out from taking damage.
+A plush doll of Canari that holds a green charm.\nHaving one of these makes you less likely to black out from taking damage.
+A plush doll of Canari that holds a green charm.\nHaving one of these makes you a lot less likely to black out from taking damage.
+A plush doll of Canari that holds a blue charm.\nHaving one of these makes it a little more likely that you'll succeed at catching Pokémon.
+A plush doll of Canari that holds a blue charm.\nHaving one of these makes it more likely that you'll succeed at catching Pokémon.
+A plush doll of Canari that holds a blue charm.\nHaving one of these makes it a lot more likely that you'll succeed at catching Pokémon.
+One of a variety of mysterious Mega\nStones. A Heatran holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Darkrai holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Zeraora holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Raichu holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Raichu holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Chimecho holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. An Absol holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Staraptor holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Garchomp holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Lucario holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Golurk holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Meowstic holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Crabominable holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Golisopod holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Magearna holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Scovillain holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Baxcalibur holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Tatsugiri holding this stone\nwill be able to Mega Evolve during battle.
+One of a variety of mysterious Mega\nStones. A Glimmora holding this stone\nwill be able to Mega Evolve during battle.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIts spicy kick is great when added to curries.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIts dry flavor offers a good balance when used in sweet cream.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIts sweet flavor makes it a great ingredient for meringue.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIts bitter bite works beautifully in chocolate.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIts sour bite makes it perfect for stewing into a confiture.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries, meringue, chocolate, and confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries, cream, chocolate, and confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries, cream, meringue, and confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries, cream, meringue, and chocolate.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries and meringue.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in cream and chocolate.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in meringue and confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in cream and confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in cream.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in meringue.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in chocolate.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in cream.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in meringue.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in chocolate.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in cream.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in meringue.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in chocolate.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in cream and meringue.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in cream and confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in chocolate and confitures.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries and chocolate.
+A mysterious Berry found in Hyperspace\nLumiose that's ideal for making donuts.\nIt goes well in curries and confitures.
+A bun made to look like Canari's face.\nIt can be used to restore 100 HP to a Pokémon.
+Some of the absolute best butter produced\nin the Kalos region. Highly sought after by the\ncooks of Lumiose—if you know,\nyou know. Makes for great donuts.
+A nice pack of butter found in Hyperspace\nLumiose. With it, you should be able to make\neven higher quality donuts than before.
+A great pack of butter found in Hyperspace\nLumiose. With it, you should be able to make\neven higher quality donuts than before.
+An amazing pack of butter found in Hyperspace\nLumiose. With it, you should be able to make\neven higher quality donuts than before.
+A supreme pack of butter found in Hyperspace\nLumiose. With it, you should be able to make\neven higher quality donuts than before.
+The absolute ultimate in butter, found in Hyperspace\nLumiose. With it, you should be able to make\neven higher quality donuts than before.
+A coarse salt that can only be harvested\nin small amounts in the Hoenn region.\nA tiny pinch will impart a wondrous depth of flavor.
+A mysterious spice that is highly valued among\nmembers of the Rust Syndicate. A sprinkle\nof it elevates the flavor of any dish so\nsublimely you'll feel as if you're dreaming.
+The oil produced by Paldea's Arboliva\nis said to be so delicious you'll feel as\nif you've gone to heaven after tasting it.\nHow Corbeau got some is best left a mystery.
+A popular candy among the children of Lumiose.\nIt pops in your mouth as if it's exploding,\nso you can enjoy a shocking experience while eating it.
+A letter that you were asked to deliver to\nthe director of Academie Etoile by a somewhat peculiar character.

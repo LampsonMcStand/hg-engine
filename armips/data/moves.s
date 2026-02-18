@@ -14791,6 +14791,22 @@ movedata MOVE_MALIGNANT_CHAIN, "Malignant Chain"
     terminatedata
     movedescription MOVE_MALIGNANT_CHAIN, "The user pours toxins\ninto the target through\na corrosive chain. This\nmay also leave the\ntarget badly poisoned."
 
+movedata MOVE_NIHIL_LIGHT, "Nihil Light"
+    battleeffect MOVE_EFFECT_HIT
+    pss SPLIT_SPECIAL
+    basepower 200
+    type TYPE_DRAGON
+    accuracy 100
+    pp 10
+    effectchance 0
+    target RANGE_SINGLE_TARGET
+    priority 0
+    flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE
+    appeal 0x00
+    contesttype CONTEST_COOL
+    terminatedata
+    movedescription MOVE_NIHIL_LIGHT, "The user attacks by\nunleashing a powerful light\nthat defies all laws of nature,\nstriking even Fairy types\nand ignoring any stat changes."
+
 movedatanoname NUM_OF_MOVES
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_SPECIAL

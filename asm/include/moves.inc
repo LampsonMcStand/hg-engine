@@ -936,11 +936,11 @@
 .equ MOVE_PSYCHIC_NOISE, 920
 .equ MOVE_UPPER_HAND, 921
 .equ MOVE_MALIGNANT_CHAIN, 922
-
+.equ MOVE_NIHIL_LIGHT, 923
 
 // there are a bunch more here but that is fine
 
-.equ NUM_OF_CANONICAL_MOVES, 923
+.equ NUM_OF_CANONICAL_MOVES, 924
 
 // make.py doesn't support constants for now
 // define your new moves below like this
